@@ -1,2 +1,2 @@
 # solidity
-Scripts Solidity
+Scripts Solidity para a criação de contratos inteligentes
